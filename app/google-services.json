@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "727251575716",
+    "firebase_url": "https://chat-7d8d7-default-rtdb.firebaseio.com",
+    "project_id": "chat-7d8d7",
+    "storage_bucket": "chat-7d8d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727251575716:android:79fe589fb47fa06183d731",
+        "android_client_info": {
+          "package_name": "br.com.chat_kotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "YOUR WEB CLIENT ID",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ8S3p6OW8rBwNIC-qW-rsF59YJX2N60s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727251575716:android:78c8f6534f48a95583d731",
+        "android_client_info": {
+          "package_name": "com.example.chatetec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "YOUR WEB CLIENT ID",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ8S3p6OW8rBwNIC-qW-rsF59YJX2N60s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
